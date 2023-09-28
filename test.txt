@@ -14,3 +14,5 @@ In main branch
 
 Information in new branch
 And Another change
+
+Добавление новых строк в мастере
