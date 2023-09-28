@@ -6,11 +6,4 @@ And Another.
 
 Line
 
-Файл до модификации
-
-Файл на гитхабе and new File
-
-In main branch
-
-Information in new branch
-And Another change
+Deleting lines in branch
